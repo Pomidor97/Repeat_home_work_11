@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Repaet_11")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Task_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c591d201afa11899dd11926851f6a6c81fde8d5c")]
-[assembly: System.Reflection.AssemblyProductAttribute("Repaet_11")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Repaet_11")]
+[assembly: System.Reflection.AssemblyProductAttribute("Task_2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Task_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
