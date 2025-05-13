@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Repaet_11")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d096d76584e58bba4c3141d4522a1d071630367")]
 [assembly: System.Reflection.AssemblyProductAttribute("Repaet_11")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Repaet_11")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
